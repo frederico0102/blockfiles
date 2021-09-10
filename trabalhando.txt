@@ -1,7 +1,7 @@
 ||instagram.com^
 ||facebook.com^
 ||tinder.com^
-||tecmundo.com^
+||tecmundo.com.br^
 ||globo.com^
 ||amazon.com^
 ||netflix.com^
