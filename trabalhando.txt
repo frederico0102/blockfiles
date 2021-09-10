@@ -5,3 +5,4 @@
 ||globo.com^
 ||amazon.com^
 ||netflix.com^
+||ge.globo.com^
