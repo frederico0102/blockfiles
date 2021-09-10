@@ -3,6 +3,6 @@
 ||tinder.com^
 ||tecmundo.com.br^
 ||globo.com^
-||amazon.com^
+||primevideo.com^
 ||netflix.com^
 ||ge.globo.com^
