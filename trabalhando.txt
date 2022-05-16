@@ -5,4 +5,3 @@
 ||globo.com^
 ||primevideo.com^
 ||netflix.com^
-||ge.globo.com^
