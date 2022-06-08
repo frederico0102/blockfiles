@@ -2,6 +2,5 @@
 ||facebook.com^
 ||tinder.com^
 ||tecmundo.com.br^
-||globo.com^
 ||primevideo.com^
 ||netflix.com^
