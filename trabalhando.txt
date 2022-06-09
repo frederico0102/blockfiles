@@ -1,6 +1,5 @@
 ||instagram.com^
 ||facebook.com^
 ||tinder.com^
-||tecmundo.com.br^
 ||primevideo.com^
 ||netflix.com^
