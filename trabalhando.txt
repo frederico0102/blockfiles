@@ -1,5 +1,4 @@
 ||instagram.com^
-||facebook.com^
 ||tinder.com^
 ||primevideo.com^
 ||netflix.com^
