@@ -6,5 +6,4 @@
 ||starplus.com^
 ||disneyplus.com^
 ||hbomax.com^
-||youtube.com/###text.ytd-thumbnail-overlay-time-status-renderer.style-scope:has-text(/\D0:/):upward(6):upward(6)
-youtube.com##ytd-grid-video-renderer:has(a[href^="/shorts/"])
+youtube.com##ytd-rich-item-renderer:has(a[href^="/shorts/"])
