@@ -6,3 +6,4 @@
 ||starplus.com^
 ||disneyplus.com^
 ||hbomax.com^
+||youtube.com/###text.ytd-thumbnail-overlay-time-status-renderer.style-scope:has-text(/\D0:/):upward(6):upward(6)
