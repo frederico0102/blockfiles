@@ -2,3 +2,7 @@
 ||tinder.com^
 ||primevideo.com^
 ||netflix.com^
+||youtube.com/shorts^
+||starplus.com^
+||disneyplus.com^
+||hbomax.com^
