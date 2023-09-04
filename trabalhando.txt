@@ -6,4 +6,3 @@
 ||starplus.com^
 ||disneyplus.com^
 ||hbomax.com^
-youtube.com##ytd-rich-item-renderer:has(a[href^="/shorts/"])
