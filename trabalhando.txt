@@ -6,3 +6,5 @@
 ||starplus.com^
 ||disneyplus.com^
 ||hbomax.com^
+||youtube.com/shorts^
+||https://www.youtube.com/shorts^
