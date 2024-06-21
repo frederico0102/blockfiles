@@ -1,0 +1,1 @@
+https://web.whatsapp.com^$client=192.168.2.100
