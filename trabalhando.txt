@@ -9,13 +9,13 @@
 ||youtube.com/shorts^$client=192.168.2.100
 ||https://www.youtube.com/shorts^$client=192.168.2.100
 
-||instagram.com^$client=192.168.2.218
-||tinder.com^$client=192.168.2.218
-||primevideo.com^$client=192.168.2.218
-||netflix.com^$client=192.168.2.218
-||youtube.com/shorts^$client=192.168.2.218
-||starplus.com^$client=192.168.2.218
-||disneyplus.com^$client=192.168.2.218
-||hbomax.com^$client=192.168.2.218
-||youtube.com/shorts^$client=192.168.2.218
-||https://www.youtube.com/shorts^$client=192.168.2.218
+||instagram.com^$client=192.168.2.253
+||tinder.com^$client=192.168.2.253
+||primevideo.com^$client=192.168.2.253
+||netflix.com^$client=192.168.2.253
+||youtube.com/shorts^$client=192.168.2.253
+||starplus.com^$client=192.168.2.253
+||disneyplus.com^$client=192.168.2.253
+||hbomax.com^$client=192.168.2.253
+||youtube.com/shorts^$client=192.168.2.253
+||https://www.youtube.com/shorts^$client=192.168.2.253
