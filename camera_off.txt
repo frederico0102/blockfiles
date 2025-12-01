@@ -1,1 +1,4 @@
-
+||cloudlinks.cn^
+||p2pcloud.cn^
+||cloud.cam^
+||*.p2pcloud.cn^
